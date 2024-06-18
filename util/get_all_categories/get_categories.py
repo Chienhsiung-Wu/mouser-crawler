@@ -2,8 +2,8 @@ from lxml import etree
 import json
 
 # 读取 HTML 文件内容
-html_file_path = 'mouser.html'
-output_json_path = 'mouser_category_data.json'
+html_file_path = '../../test_html/mouser.html'
+output_json_path = '../json/category_data.json'
 
 with open(html_file_path, 'r', encoding='utf-8') as file:
     html_content = file.read()

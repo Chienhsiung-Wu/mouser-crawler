@@ -23,7 +23,7 @@ headers = {
 }
 
 url = "https://www.mouser.cn/c/semiconductors/wireless-rf-semiconductors/pin-diodes/"
-output_json_path = 'mouser_product.html'
+output_json_path = '../../test_html/mouser_product.html'
 
 responce = requests.get(url, headers=headers)
 html = responce.text
