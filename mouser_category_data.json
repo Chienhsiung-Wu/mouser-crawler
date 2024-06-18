@@ -1,0 +1,1807 @@
+[
+    {
+        "main_category": "半导体",
+        "sub_categories": [
+            {
+                "name": "PIN 二极管",
+                "link": "/c/semiconductors/wireless-rf-semiconductors/pin-diodes/",
+                "count": " (761)"
+            },
+            {
+                "name": "无线和射频集成电路",
+                "link": "/c/semiconductors/wireless-rf-semiconductors/wireless-rf-integrated-circuits/",
+                "count": " (19,187)"
+            },
+            {
+                "name": "射频晶体管",
+                "link": "/c/semiconductors/wireless-rf-semiconductors/transistors-rf/",
+                "count": " (1,270)"
+            },
+            {
+                "name": "射频循环器",
+                "link": "/c/semiconductors/wireless-rf-semiconductors/rf-circulators/",
+                "count": " (1,385)"
+            },
+            {
+                "name": "射频隔离器",
+                "link": "/c/semiconductors/wireless-rf-semiconductors/rf-isolators/",
+                "count": " (762)"
+            },
+            {
+                "name": "二极管与整流器",
+                "link": "/c/semiconductors/discrete-semiconductors/diodes-rectifiers/",
+                "count": " (183,900)"
+            },
+            {
+                "name": "分立半导体模块",
+                "link": "/c/semiconductors/discrete-semiconductors/discrete-semiconductor-modules/",
+                "count": " (3,276)"
+            },
+            {
+                "name": "晶体管",
+                "link": "/c/semiconductors/discrete-semiconductors/transistors/",
+                "count": " (44,552)"
+            },
+            {
+                "name": "晶闸管",
+                "link": "/c/semiconductors/discrete-semiconductors/thyristors/",
+                "count": " (7,601)"
+            },
+            {
+                "name": "eMMC",
+                "link": "/c/semiconductors/memory-ics/emmc/",
+                "count": " (689)"
+            },
+            {
+                "name": "F-RAM",
+                "link": "/c/semiconductors/memory-ics/f-ram/",
+                "count": " (452)"
+            },
+            {
+                "name": "NAND闪存",
+                "link": "/c/semiconductors/memory-ics/nand-flash/",
+                "count": " (1,531)"
+            },
+            {
+                "name": "NOR闪存",
+                "link": "/c/semiconductors/memory-ics/nor-flash/",
+                "count": " (6,984)"
+            },
+            {
+                "name": "NVRAM",
+                "link": "/c/semiconductors/memory-ics/nvram/",
+                "count": " (304)"
+            },
+            {
+                "name": "可擦除可编程ROM",
+                "link": "/c/semiconductors/memory-ics/eprom/",
+                "count": " (86)"
+            },
+            {
+                "name": "电可擦除可编程只读存储器",
+                "link": "/c/semiconductors/memory-ics/eeprom/",
+                "count": " (5,346)"
+            },
+            {
+                "name": "动态随机存取存储器",
+                "link": "/c/semiconductors/memory-ics/dram/",
+                "count": " (4,804)"
+            },
+            {
+                "name": "托管型NAND",
+                "link": "/c/semiconductors/memory-ics/managed-nand/",
+                "count": " (108)"
+            },
+            {
+                "name": "存储器",
+                "link": "/c/semiconductors/memory-ics/storage/",
+                "count": " (6,168)"
+            },
+            {
+                "name": "存储器 IC 开发工具",
+                "link": "/c/semiconductors/memory-ics/memory-ic-development-tools/",
+                "count": " (134)"
+            },
+            {
+                "name": "存储器控制器",
+                "link": "/c/semiconductors/memory-ics/memory-controllers/",
+                "count": " (47)"
+            },
+            {
+                "name": "存储器模块和存储卡",
+                "link": "/c/semiconductors/memory-ics/memory-modules-memory-cards/",
+                "count": " (4,124)"
+            },
+            {
+                "name": "先进先出",
+                "link": "/c/semiconductors/memory-ics/fifo/",
+                "count": " (204)"
+            },
+            {
+                "name": "多芯片封装",
+                "link": "/c/semiconductors/memory-ics/multichip-packages/",
+                "count": " (220)"
+            },
+            {
+                "name": "通用闪存存储器 - UFS",
+                "link": "/c/semiconductors/memory-ics/universal-flash-storage-ufs/",
+                "count": " (230)"
+            },
+            {
+                "name": "静态随机存取存储器",
+                "link": "/c/semiconductors/memory-ics/sram/",
+                "count": " (12,440)"
+            },
+            {
+                "name": "磁阻随机存取存储器 (MRAM)",
+                "link": "/c/semiconductors/memory-ics/mram/",
+                "count": " (526)"
+            },
+            {
+                "name": "CPLD - 复杂可编程逻辑器件",
+                "link": "/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/cpld-complex-programmable-logic-devices/",
+                "count": " (913)"
+            },
+            {
+                "name": "CPU - 中央处理器",
+                "link": "/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/cpu-central-processing-units/",
+                "count": " (1,519)"
+            },
+            {
+                "name": "EEPLD - 电子擦除可编程逻辑设备",
+                "link": "/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/eepld-electronically-erasable-programmable-logic-devices/",
+                "count": " (61)"
+            },
+            {
+                "name": "FPGA - 现场可编程门阵列",
+                "link": "/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/fpga-field-programmable-gate-array/",
+                "count": " (12,470)"
+            },
+            {
+                "name": "FPGA-配置存储器",
+                "link": "/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/fpga-configuration-memory/",
+                "count": " (37)"
+            },
+            {
+                "name": "RF片上系统 - SoC",
+                "link": "/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/rf-system-on-a-chip-soc/",
+                "count": " (1,578)"
+            },
+            {
+                "name": "SPLD - 简单可编程逻辑器件",
+                "link": "/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/spld-simple-programmable-logic-devices/",
+                "count": " (54)"
+            },
+            {
+                "name": "片上系统 - SoC",
+                "link": "/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/systems-on-a-chip-soc/",
+                "count": " (73)"
+            },
+            {
+                "name": "处理器 - 专门应用",
+                "link": "/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/processors-application-specialized/",
+                "count": " (722)"
+            },
+            {
+                "name": "微处理器 - MPU",
+                "link": "/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/microprocessors-mpu/",
+                "count": " (1,767)"
+            },
+            {
+                "name": "微控制器 - MCU",
+                "link": "/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/microcontrollers-mcu/",
+                "count": " (49,306)"
+            },
+            {
+                "name": "数字信号处理器和控制器 - DSP, DSC",
+                "link": "/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/digital-signal-processors-controllers-dsp-dsc/",
+                "count": " (3,669)"
+            },
+            {
+                "name": "开关 IC",
+                "link": "/c/semiconductors/integrated-circuits-ics/switch-ics/",
+                "count": " (10,072)"
+            },
+            {
+                "name": "无线和射频集成电路",
+                "link": "/c/semiconductors/integrated-circuits-ics/wireless-rf-integrated-circuits/",
+                "count": " (19,187)"
+            },
+            {
+                "name": "计数器 IC",
+                "link": "/c/semiconductors/integrated-circuits-ics/counter-ics/",
+                "count": " (477)"
+            },
+            {
+                "name": "可编程逻辑 IC",
+                "link": "/c/semiconductors/integrated-circuits-ics/programmable-logic-ics/",
+                "count": " (13,535)"
+            },
+            {
+                "name": "电源管理 IC",
+                "link": "/c/semiconductors/integrated-circuits-ics/power-management-ics/",
+                "count": " (115,656)"
+            },
+            {
+                "name": "有源滤波器",
+                "link": "/c/semiconductors/integrated-circuits-ics/active-filter/",
+                "count": " (450)"
+            },
+            {
+                "name": "存储器 IC",
+                "link": "/c/semiconductors/integrated-circuits-ics/memory-ics/",
+                "count": " (43,937)"
+            },
+            {
+                "name": "光耦合器/光电耦合器",
+                "link": "/c/semiconductors/integrated-circuits-ics/optocouplers-photocouplers/",
+                "count": " (8,927)"
+            },
+            {
+                "name": "多媒体 IC",
+                "link": "/c/semiconductors/integrated-circuits-ics/multimedia-ics/",
+                "count": " (575)"
+            },
+            {
+                "name": "安全IC/验证IC",
+                "link": "/c/semiconductors/integrated-circuits-ics/security-ics-authentication-ics/",
+                "count": " (439)"
+            },
+            {
+                "name": "均衡器",
+                "link": "/c/semiconductors/integrated-circuits-ics/equalizers/",
+                "count": " (528)"
+            },
+            {
+                "name": "芯片组",
+                "link": "/c/semiconductors/integrated-circuits-ics/chipsets/",
+                "count": " (74)"
+            },
+            {
+                "name": "时钟和计时器IC",
+                "link": "/c/semiconductors/integrated-circuits-ics/clock-timer-ics/",
+                "count": " (25,782)"
+            },
+            {
+                "name": "驱动器IC",
+                "link": "/c/semiconductors/integrated-circuits-ics/driver-ics/",
+                "count": " (5,073)"
+            },
+            {
+                "name": "放大器 IC",
+                "link": "/c/semiconductors/integrated-circuits-ics/amplifier-ics/",
+                "count": " (20,849)"
+            },
+            {
+                "name": "音频 IC",
+                "link": "/c/semiconductors/integrated-circuits-ics/audio-ics/",
+                "count": " (3,169)"
+            },
+            {
+                "name": "通信及网络 IC",
+                "link": "/c/semiconductors/integrated-circuits-ics/communication-networking-ics/",
+                "count": " (1,821)"
+            },
+            {
+                "name": "接口 IC",
+                "link": "/c/semiconductors/integrated-circuits-ics/interface-ics/",
+                "count": " (17,627)"
+            },
+            {
+                "name": "逻辑集成电路",
+                "link": "/c/semiconductors/integrated-circuits-ics/logic-ics/",
+                "count": " (17,717)"
+            },
+            {
+                "name": "嵌入式处理器和控制器",
+                "link": "/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/",
+                "count": " (72,169)"
+            },
+            {
+                "name": "数字电位计 IC",
+                "link": "/c/semiconductors/integrated-circuits-ics/digital-potentiometer-ics/",
+                "count": " (2,108)"
+            },
+            {
+                "name": "数据转换器IC",
+                "link": "/c/semiconductors/integrated-circuits-ics/data-converter-ics/",
+                "count": " (17,876)"
+            }
+        ]
+    },
+    {
+        "main_category": "LED照明元件",
+        "sub_categories": [
+            {
+                "name": "LED发射器",
+                "link": "/c/optoelectronics/led-lighting/led-emitters/",
+                "count": " (52,373)"
+            },
+            {
+                "name": "LED灯泡与模块",
+                "link": "/c/optoelectronics/led-lighting/led-bulbs-modules/",
+                "count": " (54,560)"
+            },
+            {
+                "name": "LED照明电子器件",
+                "link": "/c/optoelectronics/led-lighting/led-lighting-electronics/",
+                "count": " (8,499)"
+            },
+            {
+                "name": "LED照明机械器件",
+                "link": "/c/optoelectronics/led-lighting/led-lighting-mechanical/",
+                "count": " (703)"
+            },
+            {
+                "name": "LED照明光学器件",
+                "link": "/c/optoelectronics/led-lighting/led-lighting-optics/",
+                "count": " (2,732)"
+            },
+            {
+                "name": "照明连接器",
+                "link": "/c/optoelectronics/led-lighting/lighting-connectors/",
+                "count": " (1,411)"
+            }
+        ]
+    },
+    {
+        "main_category": "工业自动化",
+        "sub_categories": [
+            {
+                "name": "人机接口 - HMI",
+                "link": "/c/electromechanical/industrial-automation/human-machine-interface-hmi/",
+                "count": "0"
+            },
+            {
+                "name": "工业开发工具",
+                "link": "/c/electromechanical/industrial-automation/industrial-development-tools/",
+                "count": "0"
+            },
+            {
+                "name": "工业开关",
+                "link": "/c/electromechanical/industrial-automation/industrial-switches/",
+                "count": "0"
+            },
+            {
+                "name": "工业计算",
+                "link": "/c/electromechanical/industrial-automation/industrial-computing/",
+                "count": "0"
+            },
+            {
+                "name": "工业电源",
+                "link": "/c/electromechanical/industrial-automation/industrial-power/",
+                "count": "0"
+            },
+            {
+                "name": "工业机壳",
+                "link": "/c/electromechanical/industrial-automation/industrial-enclosures/",
+                "count": "0"
+            },
+            {
+                "name": "工业传感器",
+                "link": "/c/electromechanical/industrial-automation/industrial-sensors/",
+                "count": "0"
+            },
+            {
+                "name": "工业安全",
+                "link": "/c/electromechanical/industrial-automation/industrial-safety/",
+                "count": "0"
+            },
+            {
+                "name": "工业连接器",
+                "link": "/c/electromechanical/industrial-automation/industrial-connectors/",
+                "count": "0"
+            },
+            {
+                "name": "工业显示器",
+                "link": "/c/electromechanical/industrial-automation/industrial-displays/",
+                "count": "0"
+            },
+            {
+                "name": "工业继电器和配件",
+                "link": "/c/electromechanical/industrial-automation/industrial-relays-accessories/",
+                "count": "0"
+            },
+            {
+                "name": "工业接线端子块",
+                "link": "/c/electromechanical/industrial-automation/industrial-terminal-blocks/",
+                "count": "0"
+            },
+            {
+                "name": "工业照明和指示器",
+                "link": "/c/electromechanical/industrial-automation/industrial-lighting-indicators/",
+                "count": "0"
+            },
+            {
+                "name": "工业激光器",
+                "link": "/c/electromechanical/industrial-automation/industrial-lasers/",
+                "count": "0"
+            },
+            {
+                "name": "计时器",
+                "link": "/c/electromechanical/industrial-automation/timers/",
+                "count": "0"
+            },
+            {
+                "name": "计数器和转速计",
+                "link": "/c/electromechanical/industrial-automation/counters-tachometers/",
+                "count": "0"
+            },
+            {
+                "name": "以太网和通信模块",
+                "link": "/c/electromechanical/industrial-automation/ethernet-communication-modules/",
+                "count": "0"
+            },
+            {
+                "name": "打印机",
+                "link": "/c/electromechanical/industrial-automation/printers/",
+                "count": "0"
+            },
+            {
+                "name": "电机驱动器",
+                "link": "/c/electromechanical/industrial-automation/motor-drives/",
+                "count": "0"
+            },
+            {
+                "name": "电线与电缆",
+                "link": "/c/electromechanical/industrial-automation/wire-cable/",
+                "count": "0"
+            },
+            {
+                "name": "电路保护",
+                "link": "/c/electromechanical/industrial-automation/circuit-protection/",
+                "count": "0"
+            },
+            {
+                "name": "机器人",
+                "link": "/c/electromechanical/industrial-automation/robotics/",
+                "count": "0"
+            },
+            {
+                "name": "相机和配件",
+                "link": "/c/electromechanical/industrial-automation/cameras-accessories/",
+                "count": "0"
+            },
+            {
+                "name": "测试与测量",
+                "link": "/c/electromechanical/industrial-automation/test-measurement/",
+                "count": "0"
+            },
+            {
+                "name": "接触器",
+                "link": "/c/electromechanical/industrial-automation/contactors/",
+                "count": "0"
+            },
+            {
+                "name": "控制器",
+                "link": "/c/electromechanical/industrial-automation/controllers/",
+                "count": "0"
+            },
+            {
+                "name": "硬件",
+                "link": "/c/electromechanical/industrial-automation/hardware/",
+                "count": "0"
+            },
+            {
+                "name": "螺线管和执行器",
+                "link": "/c/electromechanical/industrial-automation/solenoids-actuators/",
+                "count": "0"
+            }
+        ]
+    },
+    {
+        "main_category": "工具与耗材",
+        "sub_categories": [
+            {
+                "name": "3D打印和配件",
+                "link": "/c/tools-supplies/3d-printing-accessories/",
+                "count": " (843)"
+            },
+            {
+                "name": "干擦拭布",
+                "link": "/c/tools-supplies/dry-wipes/",
+                "count": " (74)"
+            },
+            {
+                "name": "工具",
+                "link": "/c/tools-supplies/tools/",
+                "count": " (110,352)"
+            },
+            {
+                "name": "化学物质",
+                "link": "/c/tools-supplies/chemicals/",
+                "count": " (3,896)"
+            },
+            {
+                "name": "存储箱与外壳",
+                "link": "/c/tools-supplies/storage-boxes-cases/",
+                "count": " (588)"
+            },
+            {
+                "name": "防静电控制产品",
+                "link": "/c/tools-supplies/anti-static-control-products/",
+                "count": " (3,648)"
+            },
+            {
+                "name": "制造商/DIY、教育套件",
+                "link": "/c/tools-supplies/maker-diy-educational/",
+                "count": " (444)"
+            },
+            {
+                "name": "刷子",
+                "link": "/c/tools-supplies/brushes/",
+                "count": " (282)"
+            },
+            {
+                "name": "标签和工业警告标志",
+                "link": "/c/tools-supplies/labels-industrial-warning-signs/",
+                "count": " (3,042)"
+            },
+            {
+                "name": "配件",
+                "link": "/c/tools-supplies/accessories/",
+                "count": " (4,261)"
+            },
+            {
+                "name": "原型产品",
+                "link": "/c/tools-supplies/prototyping-products/",
+                "count": " (22,998)"
+            },
+            {
+                "name": "胶带",
+                "link": "/c/tools-supplies/adhesive-tapes/",
+                "count": " (4,695)"
+            },
+            {
+                "name": "预饱和擦拭布",
+                "link": "/c/tools-supplies/pre-saturated-wipes/",
+                "count": " (35)"
+            },
+            {
+                "name": "焊接",
+                "link": "/c/tools-supplies/soldering/",
+                "count": " (5,390)"
+            },
+            {
+                "name": "液体分配器和瓶子",
+                "link": "/c/tools-supplies/liquid-dispensers-bottles/",
+                "count": " (1,064)"
+            },
+            {
+                "name": "棉签",
+                "link": "/c/tools-supplies/swabs/",
+                "count": " (101)"
+            }
+        ]
+    },
+    {
+        "main_category": "工程技术开发工具",
+        "sub_categories": [
+            {
+                "name": "LED 照明开发工具",
+                "link": "/c/semiconductors/engineering-development-tools/led-lighting-development-tools/",
+                "count": " (1,115)"
+            },
+            {
+                "name": "开发软件",
+                "link": "/c/semiconductors/engineering-development-tools/development-software/",
+                "count": " (3,115)"
+            },
+            {
+                "name": "可编程逻辑 IC 开发工具",
+                "link": "/c/semiconductors/engineering-development-tools/programmable-logic-ic-development-tools/",
+                "count": " (614)"
+            },
+            {
+                "name": "电源管理IC开发工具",
+                "link": "/c/semiconductors/engineering-development-tools/power-management-ic-development-tools/",
+                "count": " (11,142)"
+            },
+            {
+                "name": "存储器 IC 开发工具",
+                "link": "/c/semiconductors/engineering-development-tools/memory-ic-development-tools/",
+                "count": " (134)"
+            },
+            {
+                "name": "光电开发工具",
+                "link": "/c/semiconductors/engineering-development-tools/optoelectronic-development-tools/",
+                "count": " (2,634)"
+            },
+            {
+                "name": "光纤开发工具",
+                "link": "/c/semiconductors/engineering-development-tools/fiber-optic-development-tools/",
+                "count": " (57)"
+            },
+            {
+                "name": "传感器开发工具",
+                "link": "/c/semiconductors/engineering-development-tools/sensor-development-tools/",
+                "count": " (3,488)"
+            },
+            {
+                "name": "各种套件",
+                "link": "/c/semiconductors/engineering-development-tools/assortment-kits/",
+                "count": " (4,194)"
+            },
+            {
+                "name": "安全/ 验证开发工具",
+                "link": "/c/semiconductors/engineering-development-tools/security-authentication-development-tools/",
+                "count": " (114)"
+            },
+            {
+                "name": "显示开发工具",
+                "link": "/c/semiconductors/engineering-development-tools/display-development-tools/",
+                "count": " (981)"
+            },
+            {
+                "name": "射频/无线开发工具",
+                "link": "/c/semiconductors/engineering-development-tools/rf-wireless-development-tools/",
+                "count": " (6,441)"
+            },
+            {
+                "name": "通信开发工具",
+                "link": "/c/semiconductors/engineering-development-tools/communication-development-tools/",
+                "count": " (6,938)"
+            },
+            {
+                "name": "嵌入式工具与配件",
+                "link": "/c/semiconductors/engineering-development-tools/embedded-tools-accessories/",
+                "count": " (3,774)"
+            },
+            {
+                "name": "嵌入式处理器开发套件",
+                "link": "/c/semiconductors/engineering-development-tools/embedded-processor-development-kits/",
+                "count": " (3,063)"
+            },
+            {
+                "name": "模拟与数字IC开发工具",
+                "link": "/c/semiconductors/engineering-development-tools/analog-digital-ic-development-tools/",
+                "count": " (18,790)"
+            }
+        ]
+    },
+    {
+        "main_category": "无源元件",
+        "sub_categories": [
+            {
+                "name": "EMI 滤波器 / EMI 抑制",
+                "link": "/c/passive-components/emi-filters-emi-suppression/",
+                "count": " (44,633)"
+            },
+            {
+                "name": "天线",
+                "link": "/c/passive-components/antennas/",
+                "count": " (7,015)"
+            },
+            {
+                "name": "天线配件",
+                "link": "/c/passive-components/antenna-accessories/",
+                "count": " (519)"
+            },
+            {
+                "name": "电位器、微调器和变阻器",
+                "link": "/c/passive-components/potentiometers-trimmers-rheostats/",
+                "count": " (46,990)"
+            },
+            {
+                "name": "电阻器",
+                "link": "/c/passive-components/resistors/",
+                "count": " (1,907,157)"
+            },
+            {
+                "name": "电容器",
+                "link": "/c/passive-components/capacitors/",
+                "count": " (1,497,185)"
+            },
+            {
+                "name": "电感器、扼流圈与线圈",
+                "link": "/c/passive-components/inductors-chokes-coils/",
+                "count": " (127,761)"
+            },
+            {
+                "name": "压敏电阻",
+                "link": "/c/passive-components/varistors/",
+                "count": " (21,126)"
+            },
+            {
+                "name": "信号调节",
+                "link": "/c/passive-components/signal-conditioning/",
+                "count": " (13,195)"
+            },
+            {
+                "name": "音频变压器/信号变压器",
+                "link": "/c/passive-components/audio-transformers-signal-transformers/",
+                "count": " (5,003)"
+            },
+            {
+                "name": "热敏电阻 - NTC",
+                "link": "/c/passive-components/thermistors-ntc/",
+                "count": " (8,006)"
+            },
+            {
+                "name": "热敏电阻 - PTC",
+                "link": "/c/passive-components/thermistors-ptc/",
+                "count": " (1,051)"
+            },
+            {
+                "name": "铁氧体",
+                "link": "/c/passive-components/ferrites/",
+                "count": " (10,210)"
+            },
+            {
+                "name": "编码器",
+                "link": "/c/passive-components/encoders/",
+                "count": " (7,539)"
+            },
+            {
+                "name": "频率控制器和定时装置",
+                "link": "/c/passive-components/frequency-control-timing-devices/",
+                "count": " (243,700)"
+            },
+            {
+                "name": "滤波器",
+                "link": "/c/passive-components/filters/",
+                "count": " (72,468)"
+            }
+        ]
+    },
+    {
+        "main_category": "电线与电缆",
+        "sub_categories": [
+            {
+                "name": "FFC/FPC跳线电缆",
+                "link": "/c/wire-cable/ffc-fpc-jumper-cables/",
+                "count": " (19,488)"
+            },
+            {
+                "name": "电线与电缆管理",
+                "link": "/c/wire-cable/wire-cable-management/",
+                "count": " (90,923)"
+            },
+            {
+                "name": "电缆组件",
+                "link": "/c/wire-cable/cable-assemblies/",
+                "count": " (302,730)"
+            },
+            {
+                "name": "光纤",
+                "link": "/c/wire-cable/fiber-optic/",
+                "count": " (16,941)"
+            },
+            {
+                "name": "同轴电缆",
+                "link": "/c/wire-cable/coaxial-cables/",
+                "count": " (2,773)"
+            },
+            {
+                "name": "多芯电缆",
+                "link": "/c/wire-cable/multi-conductor-cables/",
+                "count": " (22,098)"
+            },
+            {
+                "name": "连接线",
+                "link": "/c/wire-cable/hook-up-wire/",
+                "count": " (10,935)"
+            },
+            {
+                "name": "扁平电缆",
+                "link": "/c/wire-cable/flat-cables/",
+                "count": " (4,568)"
+            }
+        ]
+    },
+    {
+        "main_category": "电路保护",
+        "sub_categories": [
+            {
+                "name": "ESD 抑制器/TVS 二极管",
+                "link": "/c/circuit-protection/esd-suppressors-tvs-diodes/",
+                "count": " (76,830)"
+            },
+            {
+                "name": "LED保护设备",
+                "link": "/c/circuit-protection/led-protection-devices/",
+                "count": " (195)"
+            },
+            {
+                "name": "气体放电管 - GDT /气体等离子体避雷器",
+                "link": "/c/circuit-protection/gas-discharge-tubes-gdts-gas-plasma-arrestors/",
+                "count": " (3,163)"
+            },
+            {
+                "name": "电路保护套件",
+                "link": "/c/circuit-protection/circuit-protection-kits/",
+                "count": " (485)"
+            },
+            {
+                "name": "电源排插",
+                "link": "/c/circuit-protection/power-outlet-strips/",
+                "count": " (5,944)"
+            },
+            {
+                "name": "压敏电阻",
+                "link": "/c/circuit-protection/varistors/",
+                "count": " (21,126)"
+            },
+            {
+                "name": "自恢复保险丝—PPTC",
+                "link": "/c/circuit-protection/resettable-fuses-pptc/",
+                "count": " (3,561)"
+            },
+            {
+                "name": "保险丝",
+                "link": "/c/circuit-protection/fuses/",
+                "count": " (39,438)"
+            },
+            {
+                "name": "保险丝座",
+                "link": "/c/circuit-protection/fuse-holders/",
+                "count": " (6,739)"
+            },
+            {
+                "name": "热敏电阻器",
+                "link": "/c/circuit-protection/thermistors/",
+                "count": " (13,237)"
+            },
+            {
+                "name": "浪涌保护器件 - SPD",
+                "link": "/c/circuit-protection/surge-protective-devices-spd/",
+                "count": " (10,524)"
+            },
+            {
+                "name": "断路器与附件",
+                "link": "/c/circuit-protection/circuit-breakers-accessories/",
+                "count": " (74,457)"
+            },
+            {
+                "name": "晶闸管",
+                "link": "/c/circuit-protection/thyristors/",
+                "count": " (7,601)"
+            },
+            {
+                "name": "温度保险丝",
+                "link": "/c/circuit-protection/thermal-cutoffs/",
+                "count": " (988)"
+            }
+        ]
+    },
+    {
+        "main_category": "电源",
+        "sub_categories": [
+            {
+                "name": "DC/DC转换器",
+                "link": "/c/power/dc-dc-converters/",
+                "count": " (65,487)"
+            },
+            {
+                "name": "太阳能板和太阳能电池",
+                "link": "/c/power/solar-panels-solar-cells/",
+                "count": " (130)"
+            },
+            {
+                "name": "冗余模块",
+                "link": "/c/power/redundancy-modules/",
+                "count": " (58)"
+            },
+            {
+                "name": "功率调节",
+                "link": "/c/power/power-condition/",
+                "count": " (19,324)"
+            },
+            {
+                "name": "电动交通",
+                "link": "/c/power/e-mobility/",
+                "count": " (665)"
+            },
+            {
+                "name": "电池",
+                "link": "/c/power/batteries/",
+                "count": " (2,472)"
+            },
+            {
+                "name": "电池充电器",
+                "link": "/c/power/battery-chargers/",
+                "count": " (609)"
+            },
+            {
+                "name": "电池座、卡扣和接头",
+                "link": "/c/power/battery-holders-clips-contacts/",
+                "count": " (1,919)"
+            },
+            {
+                "name": "电源",
+                "link": "/c/power/power-supplies/",
+                "count": " (78,221)"
+            },
+            {
+                "name": "电源管理 IC",
+                "link": "/c/power/power-management-ics/",
+                "count": " (111,531)"
+            },
+            {
+                "name": "交流电源线",
+                "link": "/c/power/ac-power-cords/",
+                "count": " (3,369)"
+            },
+            {
+                "name": "交流电源插头和插座",
+                "link": "/c/power/ac-power-plugs-receptacles/",
+                "count": " (2,069)"
+            },
+            {
+                "name": "交流电源输入模块",
+                "link": "/c/power/ac-power-entry-modules/",
+                "count": " (7,747)"
+            },
+            {
+                "name": "直流电源连接器",
+                "link": "/c/power/dc-power-connectors/",
+                "count": " (1,082)"
+            },
+            {
+                "name": "直流电源线",
+                "link": "/c/power/dc-power-cords/",
+                "count": " (1,021)"
+            },
+            {
+                "name": "变压器",
+                "link": "/c/power/transformers/",
+                "count": " (14,753)"
+            },
+            {
+                "name": "逆变器",
+                "link": "/c/power/power-inverters/",
+                "count": " (467)"
+            },
+            {
+                "name": "超级电容器",
+                "link": "/c/power/supercapacitors/",
+                "count": " (1,328)"
+            }
+        ]
+    },
+    {
+        "main_category": "半导体",
+        "sub_categories": [
+            {
+                "name": "无线和射频半导体",
+                "link": "/c/semiconductors/wireless-rf-semiconductors/",
+                "count": " (23,365)"
+            },
+            {
+                "name": "分立半导体",
+                "link": "/c/semiconductors/discrete-semiconductors/",
+                "count": " (239,329)"
+            },
+            {
+                "name": "存储器 IC",
+                "link": "/c/semiconductors/memory-ics/",
+                "count": " (44,397)"
+            },
+            {
+                "name": "嵌入式处理器和控制器",
+                "link": "/c/semiconductors/integrated-circuits-ics/embedded-processors-controllers/",
+                "count": " (72,169)"
+            },
+            {
+                "name": "集成电路 - IC",
+                "link": "/c/semiconductors/integrated-circuits-ics/",
+                "count": " (398,048)"
+            }
+        ]
+    },
+    {
+        "main_category": "机电产品",
+        "sub_categories": [
+            {
+                "name": "I/O 模块",
+                "link": "/c/electromechanical/i-o-modules/",
+                "count": " (2,053)"
+            },
+            {
+                "name": "工业自动化",
+                "link": "/c/electromechanical/industrial-automation/",
+                "count": " (1,281,815)"
+            },
+            {
+                "name": "开关",
+                "link": "/c/electromechanical/switches/",
+                "count": " (294,737)"
+            },
+            {
+                "name": "打印机",
+                "link": "/c/electromechanical/printers/",
+                "count": " (2,105)"
+            },
+            {
+                "name": "电机与驱动器",
+                "link": "/c/electromechanical/motors-drives/",
+                "count": " (18,437)"
+            },
+            {
+                "name": "音频设备",
+                "link": "/c/electromechanical/audio-devices/",
+                "count": " (8,863)"
+            },
+            {
+                "name": "继电器、接触器和螺线管",
+                "link": "/c/electromechanical/relays-contactors-solenoids/",
+                "count": " (68,547)"
+            },
+            {
+                "name": "旋钮和转盘",
+                "link": "/c/electromechanical/knobs-dials/",
+                "count": " (2,621)"
+            },
+            {
+                "name": "断路器",
+                "link": "/c/electromechanical/circuit-breakers/",
+                "count": " (67,926)"
+            },
+            {
+                "name": "硬件",
+                "link": "/c/electromechanical/hardware/",
+                "count": " (147,223)"
+            },
+            {
+                "name": "编码器",
+                "link": "/c/electromechanical/encoders/",
+                "count": " (7,539)"
+            }
+        ]
+    },
+    {
+        "main_category": "机壳产品",
+        "sub_categories": [
+            {
+                "name": "工业自动化外壳",
+                "link": "/c/enclosures/enclosures-for-industrial-automation/",
+                "count": " (5,724)"
+            },
+            {
+                "name": "存储箱与外壳",
+                "link": "/c/enclosures/storage-boxes-cases/",
+                "count": " (588)"
+            },
+            {
+                "name": "单板计算机外壳",
+                "link": "/c/enclosures/enclosures-for-single-board-computing/",
+                "count": " (237)"
+            },
+            {
+                "name": "标准电气",
+                "link": "/c/enclosures/standard-electrical/",
+                "count": " (7,647)"
+            },
+            {
+                "name": "架类及柜类产品",
+                "link": "/c/enclosures/racks-cabinets/",
+                "count": " (22,083)"
+            },
+            {
+                "name": "罩类、盒类及壳类产品",
+                "link": "/c/enclosures/enclosures-boxes-cases/",
+                "count": " (11,021)"
+            }
+        ]
+    },
+    {
+        "main_category": "光电子产品",
+        "sub_categories": [
+            {
+                "name": "LED发射器",
+                "link": "/c/optoelectronics/led-emitters/",
+                "count": " (52,373)"
+            },
+            {
+                "name": "LED指示元件",
+                "link": "/c/optoelectronics/led-indication/",
+                "count": " (58,866)"
+            },
+            {
+                "name": "LED照明元件",
+                "link": "/c/optoelectronics/led-lighting/",
+                "count": " (120,278)"
+            },
+            {
+                "name": "白炽灯和支架",
+                "link": "/c/optoelectronics/lamps-holders/",
+                "count": " (3,917)"
+            },
+            {
+                "name": "光纤",
+                "link": "/c/optoelectronics/fiber-optics/",
+                "count": " (23,713)"
+            },
+            {
+                "name": "光学开关",
+                "link": "/c/optoelectronics/optical-switches/",
+                "count": " (971)"
+            },
+            {
+                "name": "光学探测器和传感器",
+                "link": "/c/optoelectronics/optical-detectors-sensors/",
+                "count": " (11,454)"
+            },
+            {
+                "name": "光耦合器/光电耦合器",
+                "link": "/c/optoelectronics/optocouplers-photocouplers/",
+                "count": " (16,373)"
+            },
+            {
+                "name": "红外线数据通信",
+                "link": "/c/optoelectronics/infrared-data-communications/",
+                "count": " (2,196)"
+            },
+            {
+                "name": "驱动器",
+                "link": "/c/optoelectronics/drivers/",
+                "count": " (5,073)"
+            },
+            {
+                "name": "相机和配件",
+                "link": "/c/optoelectronics/cameras-accessories/",
+                "count": " (2,732)"
+            },
+            {
+                "name": "背光元器件",
+                "link": "/c/optoelectronics/backlighting-components/",
+                "count": " (163)"
+            },
+            {
+                "name": "显示器",
+                "link": "/c/optoelectronics/displays/",
+                "count": " (8,738)"
+            },
+            {
+                "name": "激光",
+                "link": "/c/optoelectronics/lasers/",
+                "count": " (282)"
+            }
+        ]
+    },
+    {
+        "main_category": "传感器",
+        "sub_categories": [
+            {
+                "name": "力传感器与测压元件",
+                "link": "/c/sensors/force-sensors-load-cells/",
+                "count": " (247)"
+            },
+            {
+                "name": "电流传感器",
+                "link": "/c/sensors/current-sensors/",
+                "count": " (3,374)"
+            },
+            {
+                "name": "电容触摸传感器",
+                "link": "/c/sensors/capacitive-touch-sensors/",
+                "count": " (234)"
+            },
+            {
+                "name": "生物计量传感器",
+                "link": "/c/sensors/biometric-sensors/",
+                "count": " (61)"
+            },
+            {
+                "name": "压力传感器",
+                "link": "/c/sensors/pressure-sensors/",
+                "count": " (17,858)"
+            },
+            {
+                "name": "光学传感器",
+                "link": "/c/sensors/optical-sensors/",
+                "count": " (20,586)"
+            },
+            {
+                "name": "传感器开发工具",
+                "link": "/c/sensors/sensor-development-tools/",
+                "count": " (3,488)"
+            },
+            {
+                "name": "传感器硬件与配件",
+                "link": "/c/sensors/sensor-hardware-accessories/",
+                "count": " (3,161)"
+            },
+            {
+                "name": "运动与定位传感器",
+                "link": "/c/sensors/motion-position-sensors/",
+                "count": " (4,188)"
+            },
+            {
+                "name": "近程传感器",
+                "link": "/c/sensors/proximity-sensors/",
+                "count": " (17,176)"
+            },
+            {
+                "name": "环境传感器",
+                "link": "/c/sensors/environmental-sensors/",
+                "count": " (1,250)"
+            },
+            {
+                "name": "线性位移传感器",
+                "link": "/c/sensors/linear-displacement-sensors/",
+                "count": " (621)"
+            },
+            {
+                "name": "音频传感器",
+                "link": "/c/sensors/audio-sensors/",
+                "count": " (968)"
+            },
+            {
+                "name": "流量传感器",
+                "link": "/c/sensors/flow-sensors/",
+                "count": " (386)"
+            },
+            {
+                "name": "液位传感器",
+                "link": "/c/sensors/liquid-level-sensors/",
+                "count": " (1,617)"
+            },
+            {
+                "name": "温度传感器",
+                "link": "/c/sensors/temperature-sensors/",
+                "count": " (14,851)"
+            },
+            {
+                "name": "编码器",
+                "link": "/c/sensors/encoders/",
+                "count": " (7,539)"
+            },
+            {
+                "name": "磁性传感器",
+                "link": "/c/sensors/magnetic-sensors/",
+                "count": " (4,695)"
+            }
+        ]
+    },
+    {
+        "main_category": "连接器",
+        "sub_categories": [
+            {
+                "name": "D-Sub连接器",
+                "link": "/c/connectors/d-sub-connectors/",
+                "count": " (246,004)"
+            },
+            {
+                "name": "FFC/FPC",
+                "link": "/c/connectors/ffc-fpc/",
+                "count": " (29,051)"
+            },
+            {
+                "name": "I/O 连接器",
+                "link": "/c/connectors/i-o-connectors/",
+                "count": " (6,553)"
+            },
+            {
+                "name": "IC 与器件插座",
+                "link": "/c/connectors/ic-component-sockets/",
+                "count": " (43,449)"
+            },
+            {
+                "name": "IEEE 1394连接器",
+                "link": "/c/connectors/ieee-1394-connectors/",
+                "count": " (50)"
+            },
+            {
+                "name": "USB连接器",
+                "link": "/c/connectors/usb-connectors/",
+                "count": " (3,459)"
+            },
+            {
+                "name": "太阳能连接器/光伏连接器",
+                "link": "/c/connectors/solar-connectors-photovoltaic-connectors/",
+                "count": " (511)"
+            },
+            {
+                "name": "未分类连接器",
+                "link": "/c/connectors/unspecified-connectors/",
+                "count": " (613)"
+            },
+            {
+                "name": "卡缘连接器",
+                "link": "/c/connectors/card-edge-connectors/",
+                "count": " (454,642)"
+            },
+            {
+                "name": "电动汽车连接器",
+                "link": "/c/connectors/ev-connectors/",
+                "count": " (132)"
+            },
+            {
+                "name": "电线与电缆",
+                "link": "/c/connectors/wire-cable/",
+                "count": " (453,992)"
+            },
+            {
+                "name": "电缆组件",
+                "link": "/c/connectors/cable-assemblies/",
+                "count": " (303,207)"
+            },
+            {
+                "name": "电源连接器",
+                "link": "/c/connectors/power-connectors/",
+                "count": " (73,496)"
+            },
+            {
+                "name": "存储器连接器",
+                "link": "/c/connectors/memory-connectors/",
+                "count": " (3,304)"
+            },
+            {
+                "name": "光纤军用规格连接器",
+                "link": "/c/connectors/fiber-optic-mil-spec-connectors/",
+                "count": " (44)"
+            },
+            {
+                "name": "光纤连接器",
+                "link": "/c/connectors/fiber-optic-connectors/",
+                "count": " (4,639)"
+            },
+            {
+                "name": "军用规格/军用类型",
+                "link": "/c/connectors/mil-spec-mil-type/",
+                "count": " (920,987)"
+            },
+            {
+                "name": "汽车连接器",
+                "link": "/c/connectors/automotive-connectors/",
+                "count": " (37,680)"
+            },
+            {
+                "name": "板对板与夹层连接器",
+                "link": "/c/connectors/board-to-board-mezzanine-connectors/",
+                "count": " (133,785)"
+            },
+            {
+                "name": "背板连接器",
+                "link": "/c/connectors/backplane-connectors/",
+                "count": " (35,786)"
+            },
+            {
+                "name": "音频与视频连接器",
+                "link": "/c/connectors/audio-video-connectors/",
+                "count": " (10,346)"
+            },
+            {
+                "name": "圆形连接器",
+                "link": "/c/connectors/circular-connectors/",
+                "count": " (1,041,378)"
+            },
+            {
+                "name": "射频互连",
+                "link": "/c/connectors/rf-interconnects/",
+                "count": " (94,495)"
+            },
+            {
+                "name": "接线系统",
+                "link": "/c/connectors/junction-systems/",
+                "count": " (2,282)"
+            },
+            {
+                "name": "接线端子",
+                "link": "/c/connectors/terminal-blocks/",
+                "count": " (139,426)"
+            },
+            {
+                "name": "集管和线壳",
+                "link": "/c/connectors/headers-wire-housings/",
+                "count": " (355,799)"
+            },
+            {
+                "name": "照明连接器",
+                "link": "/c/connectors/lighting-connectors/",
+                "count": " (1,411)"
+            },
+            {
+                "name": "触点探头",
+                "link": "/c/connectors/contact-probes/",
+                "count": " (2,044)"
+            },
+            {
+                "name": "数据总线元器件",
+                "link": "/c/connectors/data-bus-components/",
+                "count": " (708)"
+            },
+            {
+                "name": "模块式连接器/以太网连接器",
+                "link": "/c/connectors/modular-connectors-ethernet-connectors/",
+                "count": " (23,524)"
+            },
+            {
+                "name": "管脚和插座连接器",
+                "link": "/c/connectors/pin-socket-connectors/",
+                "count": " (4,421)"
+            },
+            {
+                "name": "端子",
+                "link": "/c/connectors/terminals/",
+                "count": " (24,443)"
+            }
+        ]
+    },
+    {
+        "main_category": "测试与测量",
+        "sub_categories": [
+            {
+                "name": "LAN/电信/电缆测试",
+                "link": "/c/test-measurement/lan-telecom-cable-testing/",
+                "count": " (252)"
+            },
+            {
+                "name": "RF 测试设备",
+                "link": "/c/test-measurement/rf-test-equipment/",
+                "count": " (158)"
+            },
+            {
+                "name": "RF测试电缆",
+                "link": "/c/test-measurement/rf-test-cables/",
+                "count": " (639)"
+            },
+            {
+                "name": "十进盒",
+                "link": "/c/test-measurement/decade-boxes/",
+                "count": " (47)"
+            },
+            {
+                "name": "万用表与电压表",
+                "link": "/c/test-measurement/multimeters-voltmeters/",
+                "count": " (721)"
+            },
+            {
+                "name": "元件测试仪",
+                "link": "/c/test-measurement/component-testers/",
+                "count": " (110)"
+            },
+            {
+                "name": "分析仪",
+                "link": "/c/test-measurement/analyzers/",
+                "count": " (518)"
+            },
+            {
+                "name": "计时器",
+                "link": "/c/test-measurement/timers/",
+                "count": " (854)"
+            },
+            {
+                "name": "计数器和转速计",
+                "link": "/c/test-measurement/counters-tachometers/",
+                "count": " (605)"
+            },
+            {
+                "name": "示波器",
+                "link": "/c/test-measurement/oscilloscopes/",
+                "count": " (561)"
+            },
+            {
+                "name": "电池测试机",
+                "link": "/c/test-measurement/battery-testers/",
+                "count": " (26)"
+            },
+            {
+                "name": "台式电源",
+                "link": "/c/test-measurement/bench-top-power-supplies/",
+                "count": " (484)"
+            },
+            {
+                "name": "光纤测试",
+                "link": "/c/test-measurement/fiber-optic-testing/",
+                "count": " (159)"
+            },
+            {
+                "name": "环境检测设备",
+                "link": "/c/test-measurement/environmental-test-equipment/",
+                "count": " (697)"
+            },
+            {
+                "name": "直流电子负载",
+                "link": "/c/test-measurement/dc-electronic-loads/",
+                "count": " (55)"
+            },
+            {
+                "name": "函数发生器与合成器",
+                "link": "/c/test-measurement/function-generators-synthesizers/",
+                "count": " (144)"
+            },
+            {
+                "name": "面板表",
+                "link": "/c/test-measurement/panel-meters/",
+                "count": " (10,752)"
+            },
+            {
+                "name": "音频/视频测试设备",
+                "link": "/c/test-measurement/audio-video-test-equipment/",
+                "count": " (18)"
+            },
+            {
+                "name": "测试设备电源线",
+                "link": "/c/test-measurement/test-equipment-power-cords/",
+                "count": " (3,369)"
+            },
+            {
+                "name": "测试设备配件",
+                "link": "/c/test-measurement/test-equipment-accessories/",
+                "count": " (11,402)"
+            },
+            {
+                "name": "绝缘测试器/兆欧计",
+                "link": "/c/test-measurement/insulation-testers-megohmmeters/",
+                "count": " (53)"
+            },
+            {
+                "name": "热成像摄像机",
+                "link": "/c/test-measurement/thermal-imaging-cameras/",
+                "count": " (412)"
+            },
+            {
+                "name": "校准、保修与服务计划",
+                "link": "/c/test-measurement/calibration-warranties-service-plans/",
+                "count": " (4,131)"
+            },
+            {
+                "name": "校验设备",
+                "link": "/c/test-measurement/calibration-equipment/",
+                "count": " (980)"
+            },
+            {
+                "name": "衰减器 -互连",
+                "link": "/c/test-measurement/attenuators-interconnects/",
+                "count": " (2,294)"
+            },
+            {
+                "name": "频率计数器",
+                "link": "/c/test-measurement/frequency-counters/",
+                "count": " (41)"
+            },
+            {
+                "name": "数据记录与采集",
+                "link": "/c/test-measurement/datalogging-acquisition/",
+                "count": " (722)"
+            },
+            {
+                "name": "源测量单元—SMU",
+                "link": "/c/test-measurement/source-measure-units-smus/",
+                "count": " (56)"
+            }
+        ]
+    },
+    {
+        "main_category": "热管理产品",
+        "sub_categories": [
+            {
+                "name": "Peltier热电模块",
+                "link": "/c/thermal-management/thermoelectric-peltier-modules/",
+                "count": " (1,129)"
+            },
+            {
+                "name": "风扇与鼓风机",
+                "link": "/c/thermal-management/fans-blowers/",
+                "count": " (21,641)"
+            },
+            {
+                "name": "再循环冷却器",
+                "link": "/c/thermal-management/recirculating-chillers/",
+                "count": " (206)"
+            },
+            {
+                "name": "导热接口产品",
+                "link": "/c/thermal-management/thermal-interface-products/",
+                "count": " (4,935)"
+            },
+            {
+                "name": "换热器",
+                "link": "/c/thermal-management/heat-exchangers/",
+                "count": " (139)"
+            },
+            {
+                "name": "热电组件",
+                "link": "/c/thermal-management/thermoelectric-assemblies/",
+                "count": " (344)"
+            },
+            {
+                "name": "热基质 - MCPCB",
+                "link": "/c/thermal-management/thermal-substrates-mcpcb/",
+                "count": " (2)"
+            },
+            {
+                "name": "热敏电阻器",
+                "link": "/c/thermal-management/thermistors/",
+                "count": " (8,006)"
+            },
+            {
+                "name": "液冷连接器和配件",
+                "link": "/c/thermal-management/liquid-cooling-connectors-accessories/",
+                "count": " (8)"
+            },
+            {
+                "name": "液冷板、液冷和热管道",
+                "link": "/c/thermal-management/liquid-cold-plates-liquid-cooling-heat-pipes/",
+                "count": " (1,471)"
+            },
+            {
+                "name": "散热片",
+                "link": "/c/thermal-management/heat-sinks/",
+                "count": " (3,638)"
+            },
+            {
+                "name": "散热排 - LED",
+                "link": "/c/thermal-management/heat-sinks-led/",
+                "count": " (138)"
+            },
+            {
+                "name": "温度传感器",
+                "link": "/c/thermal-management/temperature-sensors/",
+                "count": " (6,845)"
+            },
+            {
+                "name": "温度保险丝",
+                "link": "/c/thermal-management/thermal-cutoffs/",
+                "count": " (988)"
+            }
+        ]
+    },
+    {
+        "main_category": "射频与无线产品",
+        "sub_categories": [
+            {
+                "name": "NFC/RFID解决方案",
+                "link": "/c/rf-wireless/nfc-rfid-solutions/",
+                "count": " (1,463)"
+            },
+            {
+                "name": "RF 电感器",
+                "link": "/c/rf-wireless/rf-inductors/",
+                "count": " (54,249)"
+            },
+            {
+                "name": "RF 测试设备",
+                "link": "/c/rf-wireless/rf-test-equipment/",
+                "count": " (158)"
+            },
+            {
+                "name": "RF晶体管",
+                "link": "/c/rf-wireless/rf-transistors/",
+                "count": " (1,270)"
+            },
+            {
+                "name": "RF集成电路",
+                "link": "/c/rf-wireless/rf-integrated-circuits/",
+                "count": " (18,501)"
+            },
+            {
+                "name": "天线及配件",
+                "link": "/c/rf-wireless/antennas-accessories/",
+                "count": " (7,868)"
+            },
+            {
+                "name": "无线充电",
+                "link": "/c/rf-wireless/wireless-charging/",
+                "count": " (367)"
+            },
+            {
+                "name": "无线模块",
+                "link": "/c/rf-wireless/wireless-modules/",
+                "count": " (4,530)"
+            },
+            {
+                "name": "以太网和通信模块",
+                "link": "/c/rf-wireless/ethernet-communication-modules/",
+                "count": " (11,625)"
+            },
+            {
+                "name": "射频/无线开发工具",
+                "link": "/c/rf-wireless/rf-wireless-development-tools/",
+                "count": " (5,884)"
+            },
+            {
+                "name": "射频电阻器",
+                "link": "/c/rf-wireless/rf-resistors/",
+                "count": " (465)"
+            },
+            {
+                "name": "射频电容器",
+                "link": "/c/rf-wireless/rf-capacitors/",
+                "count": " (34,971)"
+            },
+            {
+                "name": "射频电缆和连接器",
+                "link": "/c/rf-wireless/rf-cables-connectors/",
+                "count": " (102,501)"
+            },
+            {
+                "name": "射频继电器",
+                "link": "/c/rf-wireless/rf-relays/",
+                "count": " (1,671)"
+            }
+        ]
+    },
+    {
+        "main_category": "嵌入式解决方案",
+        "sub_categories": [
+            {
+                "name": "工程工具",
+                "link": "/c/embedded-solutions/engineering-tools/",
+                "count": " (61,710)"
+            },
+            {
+                "name": "无线与射频模块",
+                "link": "/c/embedded-solutions/wireless-rf-modules/",
+                "count": " (11,545)"
+            },
+            {
+                "name": "内存和数据存储器",
+                "link": "/c/embedded-solutions/memory-data-storage/",
+                "count": " (44,207)"
+            },
+            {
+                "name": "计算",
+                "link": "/c/embedded-solutions/computing/",
+                "count": " (9,452)"
+            },
+            {
+                "name": "以太网和通信模块",
+                "link": "/c/embedded-solutions/ethernet-communication-modules/",
+                "count": " (11,625)"
+            },
+            {
+                "name": "电源管理模块",
+                "link": "/c/embedded-solutions/power-management-modules/",
+                "count": " (641)"
+            },
+            {
+                "name": "加速器卡",
+                "link": "/c/embedded-solutions/accelerator-cards/",
+                "count": " (77)"
+            },
+            {
+                "name": "传感器模块",
+                "link": "/c/embedded-solutions/sensor-modules/",
+                "count": " (1,390)"
+            },
+            {
+                "name": "其他模块",
+                "link": "/c/embedded-solutions/other-modules/",
+                "count": " (271)"
+            },
+            {
+                "name": "软件",
+                "link": "/c/embedded-solutions/software/",
+                "count": " (911)"
+            },
+            {
+                "name": "视频模块",
+                "link": "/c/embedded-solutions/video-modules/",
+                "count": " (239)"
+            },
+            {
+                "name": "显示模块",
+                "link": "/c/embedded-solutions/display-modules/",
+                "count": " (1,095)"
+            },
+            {
+                "name": "界面模块",
+                "link": "/c/embedded-solutions/interface-modules/",
+                "count": " (1,936)"
+            },
+            {
+                "name": "音频模块",
+                "link": "/c/embedded-solutions/audio-modules/",
+                "count": " (46)"
+            },
+            {
+                "name": "能量采集模块",
+                "link": "/c/embedded-solutions/energy-harvesting-modules/",
+                "count": " (34)"
+            },
+            {
+                "name": "数据转换模块",
+                "link": "/c/embedded-solutions/data-conversion-modules/",
+                "count": " (13)"
+            },
+            {
+                "name": "模块配件",
+                "link": "/c/embedded-solutions/modules-accessories/",
+                "count": " (2,117)"
+            }
+        ]
+    }
+]
