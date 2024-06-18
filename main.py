@@ -1,5 +1,5 @@
 import time
-
+from lxml import etree
 import json
 import requests
 from util.category_extractor.category_extractor import CategoryExtractor
@@ -50,12 +50,44 @@ def main():
         try:
             response = requests.get(urljoin(domain, item['sub_categories'][index]['link']), headers=headers)
             if response.status_code == 200:
+                tree = etree.HTML(response.text)
+
+                # 图片由js动态加载，暂时不解决 ['/images/skeleton.png']
+                # image = tree.xpath("//img[@id='defaultThumbImg_5']/@src")
+
+                # 零件编号
+                part_number = tree.xpath("//a[@id='lnkMfrPartNumber_1']")
+                print(part_number[0].text)
+
+                # 制造商
+                manufacturer = tree.xpath("//a[@id='lnkSupplierPage_1']")
+                print(manufacturer[0].text)
+
+                # 描述
+                desc = tree.xpath("//td[@class='column desc-column hide-xsmall']/span")
+                print(desc[0].text)
+
+                # 供货情况
+                supply_situation = tree.xpath("//span[@class='available-amount']")
+                print(supply_situation[0].text)
+
+                # 单价//span[@id='lblPrice_1_1']
+                price = tree.xpath("//span[@id='lblPrice_1_1']")
+                print(price[0].text)
+
+                # 保存 HTML
+                # with open(output_json_path,'w',encoding='utf-8') as f:
+                #     f.write(response.text)
+                #     f.close()
+                # print(f"HTML 数据已保存到 {output_json_path}")
+
+
 
                 print("请求成功！")
             else:
                 print("请求失败！")
-        except Exception:
-            print("出现异常")
+        except Exception as e:
+            print(f"出现异常:{e}")
 
         time.sleep(1000)
 
