@@ -1,0 +1,76 @@
+[
+  {
+    "keyword": "STM32F103C8T6",
+    "image_url": "https://www.mouser.cn/images/mouserelectronics/sm/LQFP_48_t.jpg",
+    "mouser_part_number": "511-STM32F103C8T6",
+    "part_number": "STM32F103C8T6",
+    "manufacturer": "STMicroelectronics",
+    "desc": "ARM微控制器 - MCU 32BIT Cortex M3 64KB 20KB RAM 2X12 ADC",
+    "datasheet_url": "",
+    "supply": "",
+    "rohs": "是",
+    "price_ladder": [
+      {
+        "qty": "1",
+        "price": "¥45.8215"
+      },
+      {
+        "qty": "10",
+        "price": "¥33.2559"
+      },
+      {
+        "qty": "25",
+        "price": "¥30.3518"
+      },
+      {
+        "qty": "50",
+        "price": "¥30.2727"
+      }
+    ]
+  },
+  {
+    "keyword": "STM32F103C8T6",
+    "image_url": "https://www.mouser.cn/images/mouserelectronics/sm/LQFP_48_t.jpg",
+    "mouser_part_number": "511-STM32F103C8T6TR",
+    "part_number": "STM32F103C8T6TR",
+    "manufacturer": "STMicroelectronics",
+    "desc": "ARM微控制器 - MCU 32BIT Cortex M3 USB 7 TIMERS 2 ADCS CAN",
+    "datasheet_url": "",
+    "supply": "",
+    "rohs": "是",
+    "price_ladder": [
+      {
+        "qty": "1",
+        "price": "¥50.2963"
+      },
+      {
+        "qty": "10",
+        "price": "¥38.6234"
+      },
+      {
+        "qty": "25",
+        "price": "¥35.6515"
+      },
+      {
+        "qty": "100",
+        "price": "¥32.4197"
+      },
+      {
+        "qty": "2400",
+        "price": "¥29.0297"
+      }
+    ]
+  },
+  {
+    "keyword": "STM32F103C8T6",
+    "image_url": "https://www.mouser.cn/images/skeleton.png",
+    "mouser_part_number": "392-CS-YMFC-01",
+    "part_number": "CS-YMFC-01",
+    "manufacturer": "Crowd Supply",
+    "desc": "开发板和工具包 - ARM mini drone PCB",
+    "datasheet_url": "",
+    "supply": "",
+    "rohs": "否",
+    "price_ladder": []
+  }
+]
